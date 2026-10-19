@@ -1,61 +1,40 @@
 # Hola, soy Esteban 👋
 
-Profesional de operaciones y transformación digital con más de 8 años de experiencia en gestión, liderazgo de equipos y mejora de procesos.
+Soy gerente y cofundador de Café La Oveja, donde trabajo desde 2018 en gestión de operaciones, equipos y digitalización de procesos. Estoy orientando mi desarrollo profesional hacia la tecnología, con interés en automatización, datos y desarrollo backend.
 
-Actualmente estudio Ingeniería en Computación e Informática y estoy enfocando mi desarrollo profesional hacia la automatización, análisis de datos y desarrollo backend.
+Actualmente estudio Ingeniería en Computación e Informática en el programa ADVANCE online de la Universidad Andrés Bello. Mi formación previa es en Ingeniería en Administración de Empresas en la UCSC.
 
-## 🚀 En qué estoy trabajando
+## En qué estoy trabajando
 
-- Automatización de procesos con Python
-- Procesamiento y análisis de datos con pandas
-- SQL y bases de datos
-- APIs con FastAPI
-- Desarrollo de soluciones aplicadas a problemas reales de negocio
+Desarrollo soluciones a partir de problemas que conozco en la operación de un negocio: organizar información, reducir tareas manuales y mantener trazabilidad de lo que ocurre.
 
-## 💻 Proyecto principal
+### [ERP Café La Oveja](https://github.com/Perrixcode/erp-cafe-la-oveja)
 
-### Automatización GeoVictoria
+ERP modular desarrollado con Python, SQLite y HTML/CSS/JavaScript. Incluye gestión de pedidos, lectura de información desde la API de Toteat, seguimiento de transferencias y flujos operativos con historial y permisos por perfil.
 
-Actualmente desarrollo una solución en Python para automatizar el procesamiento de registros de asistencia y cálculo de horas laborales.
+La actualización más reciente es el **Cierre digital V2**, en etapa de piloto semanal: conteo de caja por denominación, conciliación de Mercado Pago por terminal, custodia, firma operativa y revisión humana con historial. El proyecto incluye pruebas automatizadas y documentación de verificación y límites.
 
-El proyecto busca transformar un proceso manual de varias horas en un flujo automatizado que considera reglas reales de negocio como:
+[Ver el caso de estudio del cierre digital](https://github.com/Perrixcode/erp-cafe-la-oveja/tree/main/docs/portafolio-cierre-v2)
 
-- Horas trabajadas
-- Colaciones
-- Feriados
-- Horas extraordinarias
-- Descuentos
-- Incidencias
+Es un proyecto personal que combina desarrollo manual, asistencia de IA, revisión y aprendizaje incremental. La versión pública utiliza datos ficticios y mantiene fuera del repositorio la información operacional privada.
 
-**Tecnologías:** Python · pandas · openpyxl · Excel · Git
+### [Automatización GEO](https://github.com/Perrixcode/automatizacion-geo)
 
-## 🛠️ Tecnologías y herramientas
+Proyecto en desarrollo con Python, pandas y openpyxl para automatizar el procesamiento de asistencia a partir de GeoVictoria y cronogramas de trabajo.
 
-**Programación y datos**
+Actualmente permite validar datos, cruzar el maestro con la programación y calcular y revisar horas programadas por semana. El cruce con marcaciones reales y la exportación final para Zenda siguen en desarrollo.
 
-Python · pandas · SQL · FastAPI
+## Tecnologías y aprendizaje
 
-**Desarrollo web**
+- **Proyectos actuales:** Python, SQLite, SQL, pandas, openpyxl, HTML, CSS y JavaScript.
+- **Herramientas:** Git, GitHub y Excel.
+- **En aprendizaje:** Java y programación orientada a objetos, fundamentos de backend y desarrollo web con The Odin Project.
 
-HTML · CSS · JavaScript
+## Objetivo profesional
 
-**Herramientas**
+Combinar mi experiencia en operaciones y gestión con programación para construir soluciones útiles, entender sus decisiones técnicas y mejorar su calidad a medida que avanzo en mi formación.
 
-Git · GitHub · Excel avanzado · Google Sheets
+## Contacto
 
-## 📚 Actualmente aprendiendo
-
-- Backend con Python
-- APIs REST
-- FastAPI
-- Bases de datos
-- Automatización y análisis de datos
-
-## 🎯 Objetivo profesional
-
-Combinar mi experiencia en operaciones y gestión con tecnología para desarrollar soluciones que automaticen procesos, mejoren el uso de datos y aumenten la eficiencia operacional.
-
-## 📫 Contacto
-
-- LinkedIn: https://www.linkedin.com/in/esteban-iturra-cama%C3%B1o-43373992/
-- Ubicación: Concepción, Chile
+- [LinkedIn](https://www.linkedin.com/in/esteban-iturra-cama%C3%B1o-43373992/)
+- Concepción, Chile
